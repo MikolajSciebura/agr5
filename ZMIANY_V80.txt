@@ -1,0 +1,13 @@
+V80 – aktualizacja według czterech maili właścicielki (18.11.2026)
+
+- Cennik: pokój dla 1 osoby na wyłączność 100 zł / doba, 2 osoby 180 zł, 3 osoby 270 zł, 4 osoby 300 zł.
+- Stawki od 50 zł/os./dobę WYŁĄCZNIE w ofercie dla firm, pracowników i grup przy pobytach powyżej 7 dób.
+- Cena ustalona przy rezerwacji nie ulega zmianie.
+- Zwierzęta domowe: po wcześniejszym uzgodnieniu.
+- Czasy dojazdu podane orientacyjnie: A1 10 minut, centrum Częstochowy 15 minut, Kłobuck 8 minut (samochodem).
+- Usunięte sformułowania robocze; dodana informacja o sklepach przy kuchni.
+- FAQ podzielone na grupy, dodane pytanie o zwierzęta.
+- Dane LodgingBusiness i podstrony ujednolicone z ofertą.
+
+Do potwierdzenia przed publikacją: czy 100 zł dotyczy możliwości samotnego pobytu w dowolnym istniejącym pokoju (nie odrębnego pokoju jednoosobowego), czy dokładnie 7 dób czy pobyty dłuższe niż 7 dób; czasy przejazdu zależą od trasy i ruchu.
+Dane domeny skonfiguruj przez publish_seo.py i testuj finalny HTTPS oraz formularz na hostingu.
